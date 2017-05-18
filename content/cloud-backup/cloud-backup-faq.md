@@ -169,7 +169,7 @@ in the list of Cloud Backup actions.
 
 #### Are 32-bit servers and agents on Linux supported?
 
-No, 32-bit servers and agents on Linus are not supported.
+No, 32-bit servers and agents on Linux are not supported.
 
 #### Why does by Backup fail with a 403 error from Cloud Files when account has sub-users?
 
